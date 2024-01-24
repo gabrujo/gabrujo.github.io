@@ -23,8 +23,7 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 0.2em;
-    margin-bottom: 0.2em;
+    margin-top: 2em;
     max-width: 100%;
     padding: 0 1em 2em;
 
@@ -106,12 +105,14 @@
 }
 
 .page__footer .full-name {
-  font-size: $type-size-2; /* Adjust the font size as needed */
-  margin-bottom: 0.1cm; /* Adjust the bottom margin as needed */
+  font-size: $type-size-6; /* Adjust the font size as needed */
+  margin-top: 0.1em; /* Adjust the top margin as needed */
+  margin-bottom: 0.1em; 
 }
 
 .page__footer .social-icons .ai {
   font-size: $type-size-6; /* Adjust the font size for Google Scholar icon */
+  margin-top: 0.1em;
 }
 
 .text-black {
