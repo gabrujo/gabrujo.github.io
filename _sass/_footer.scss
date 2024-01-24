@@ -23,7 +23,7 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 2em;
+    //margin-top: 2em;
     max-width: 100%;
     padding: 0 1em 2em;
 
@@ -105,7 +105,7 @@
 }
 
 .page__footer .full-name {
-  font-size: $type-size-6; /* Adjust the font size as needed */
+  font-size: $type-size-2; /* Adjust the font size as needed */
   margin-top: 0.1em; /* Adjust the top margin as needed */
   margin-bottom: 0.1em; 
 }
