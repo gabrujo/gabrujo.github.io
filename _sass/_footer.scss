@@ -61,17 +61,19 @@
   }
 
   .social-icons li {
-    margin-right: 10px;
+    margin-right: 5px; /* Adjust spacing between icons */
   }
 
   .social-icons a {
     white-space: nowrap;
+    font-size: $type-size-7; /* Adjust the font size for social icons */
   }
 }
 
 .page__footer-copyright {
   font-family: $global-font-family;
-  font-size: $type-size-7;
+  font-size: $type-size-6; /* Adjust the font size as needed */
+  margin-top: 0.5em; /* Adjust the top margin as needed */
 }
 
 .page__footer-follow {
@@ -86,7 +88,7 @@
     padding-top: 5px;
     padding-bottom: 5px;
     font-family: $sans-serif-narrow;
-    font-size: $type-size-6;
+    font-size: $type-size-6; /* Adjust the font size for Follow links */
     text-transform: uppercase;
   }
 
@@ -96,7 +98,17 @@
   }
 
   a {
-    padding-right: 10px;
+    padding-right: 5px; /* Adjust the padding as needed */
     font-weight: bold;
   }
 }
+
+.page__footer .full-name {
+  font-size: $type-size-5; /* Adjust the font size as needed */
+  margin-bottom: 0.5em; /* Adjust the bottom margin as needed */
+}
+
+.page__footer .social-icons .ai {
+  font-size: $type-size-6; /* Adjust the font size for Google Scholar icon */
+}
+
