@@ -1,5 +1,5 @@
 
-.page__footer {
+page__footer {
   @include clearfix;
   float: left;
   margin-left: 0;
@@ -9,7 +9,7 @@
   position: absolute;
   bottom: 0em;
   height: auto;
-  margin-top: 0.01em;
+  margin-top: 0;
   margin-bottom: 0; /* Remove bottom margin */
   color: mix(#fff, $gray, 25%);
   -webkit-animation: intro 0.3s both;
@@ -61,7 +61,7 @@
     padding: 0;
     display: flex;
     text-align: center;
-    margin-bottom: 0;
+    margin-bottom: 0; /* Remove bottom margin */
   }
 
   .social-icons li {
@@ -78,7 +78,7 @@
   font-family: $global-font-family;
   font-size: $type-size-2; /* Adjust the font size as needed */
   margin-top: 0.1cm; /* Adjust the top margin as needed */
-  margin-bottom: 0;
+  margin-bottom: 0; /* Remove bottom margin */
 }
 
 .page__footer-follow {
@@ -111,7 +111,7 @@
 .page__footer .full-name {
   font-size: $type-size-3; /* Adjust the font size as needed */
   margin-top: 0.1em; /* Adjust the top margin as needed */
-  margin-bottom: 0.1em; /* Adjust the bottom margin as needed */
+  margin-bottom: 0; /* Remove bottom margin */
 }
 
 .page__footer .social-icons .ai {
@@ -126,4 +126,3 @@
 .bg-white {
   background-color: #fff !important; /* You can adjust the color code as needed */
 }
-
