@@ -8,23 +8,24 @@ author_profile: true
 ## M.S. in Cybersecurity
 <div class="education-entry">
     <div class="left-column">
-        - /*/*Fordham University/*/* <br>
-        - /*GPA:/* 4.0
+        <strong>Fordham University</strong> <br>
+        <em>GPA:</em> 4.0
     </div>
     <div class="right-column">
-        /*Aug/2022 – December/2023/*  <br>
-        /*New York, NY/*
+     <span style="color: navy;">Aug/2022 – December/2023 </span> <br>
+        New York, NY
     </div>
 </div>
 
+<!-- <span style="color: navy;">GPA:</span> 4.0-->
 ## B.S. in Computer Engineering
 <div class="education-entry">
     <div class="left-column">
-        - /*/*University of Bridgeport/*/* <br>
-        - /*GPA:/* 3.9
+        <strong>University of Bridgeport</strong> <br>
+        <em>GPA:</em> 3.9
     </div>
     <div class="right-column">
-        /*Aug/2017 – May/2021/*  <br>
-        /*Bridgeport, CT/*
+        <span style="color: navy;">Aug/2017 – May/2021</span>  <br>
+        Bridgeport, CT
     </div>
 </div>
