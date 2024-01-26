@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gabriel F. Araujo"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Gabriel F. Araujo's Homepage"
 description              : &description "personal description"

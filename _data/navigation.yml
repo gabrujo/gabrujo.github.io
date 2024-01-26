@@ -3,16 +3,16 @@ main:
 
   - title: "Education"
     url: /education/ 
+  
+  - title: "Experience"
+    url: /experience/
 
   - title: "Achievements"
     url: /achievements/ 
 
-  - title: "Publications"
-    url: /publications/   
+ # - title: "Publications" will come under achievements
+  #  url: /publications/   
     
-  - title: "Experience"
-    url: /experience/
-        
   # - title: "Blog Posts"
   #   url: /year-archive/
     
