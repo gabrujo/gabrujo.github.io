@@ -399,3 +399,20 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+
+.education-entry {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-column {
+    flex: 1;
+}
+
+.right-column {
+    flex-basis: 30%; /* Adjust the width as needed */
+    text-align: right;
+}
+
+

@@ -12,5 +12,6 @@ I am **Gabriel Ferreira Araujo**, and I hold a master's degree in Cybersecurity 
 
 * I interned at Amazon as a Security Engineer and worked at Kubtec as a Software Engineer. 
 * I actively practice Jiu-Jitsu, explore new languages, and delve into Philosophy.
+
 [Recently Read Books](https://www.goodreads.com/user_challenges/52144645)
 
