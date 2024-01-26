@@ -20,7 +20,7 @@ author_profile: true
 
 <!-- <span style="color: navy;">GPA:</span> 4.0 ## B.S. in Computer Engineering-->
 
-##  <span style="color: navy;">B.S. in Computer Engineering</span>**
+##  <span style="color: navy;">B.S. in Computer Engineering</span>
 <div class="education-entry">
     <div class="left-column">
         <strong>University of Bridgeport</strong> <br>
