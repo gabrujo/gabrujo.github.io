@@ -5,7 +5,7 @@ permalink: /education/
 author_profile: true
 ---
 
-## M.S. in Cybersecurity
+**<span style="color: navy;">M.S. in Cybersecurity</span>**
 <div class="education-entry">
     <div class="left-column">
         <strong>Fordham University</strong> <br>
@@ -17,8 +17,9 @@ author_profile: true
     </div>
 </div>
 
-<!-- <span style="color: navy;">GPA:</span> 4.0-->
-## B.S. in Computer Engineering
+<!-- <span style="color: navy;">GPA:</span> 4.0 ## B.S. in Computer Engineering-->
+
+**<span style="color: navy;">B.S. in Computer Engineering</span>**
 <div class="education-entry">
     <div class="left-column">
         <strong>University of Bridgeport</strong> <br>
