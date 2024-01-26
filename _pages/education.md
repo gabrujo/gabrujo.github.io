@@ -5,11 +5,12 @@ permalink: /education/
 author_profile: true
 ---
 
-**<span style="color: navy;">M.S. in Cybersecurity</span>**
+## <span style="color: navy;">M.S. in Cybersecurity</span>
 <div class="education-entry">
     <div class="left-column">
         <strong>Fordham University</strong> <br>
-        <em>GPA:</em> 4.0
+        <em>Capstone: </em> Security of Amazon CodeWhisperer LLM <br>
+        <em>GPA:</em> 4.0/4.0
     </div>
     <div class="right-column">
      <span style="color: navy;">Aug/2022 – December/2023 </span> <br>
@@ -19,11 +20,12 @@ author_profile: true
 
 <!-- <span style="color: navy;">GPA:</span> 4.0 ## B.S. in Computer Engineering-->
 
-**<span style="color: navy;">B.S. in Computer Engineering</span>**
+##  <span style="color: navy;">B.S. in Computer Engineering</span>**
 <div class="education-entry">
     <div class="left-column">
         <strong>University of Bridgeport</strong> <br>
-        <em>GPA:</em> 3.9
+        <em>Minors:</em> Computer Science and Mathematics <br>
+        <em>GPA:</em> 3.9/4.0
     </div>
     <div class="right-column">
         <span style="color: navy;">Aug/2017 – May/2021</span>  <br>
