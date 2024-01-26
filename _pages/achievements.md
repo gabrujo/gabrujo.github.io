@@ -4,8 +4,6 @@ title: "Achievements"
 permalink: /achievements/
 author_profile: true
 ---
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -52,7 +50,6 @@ author_profile: true
     </style>
 </head>
 <body>
-    <h1>Achievements</h1>
     <section id="certifications" class="grid-container">
         <div class="grid-item">
             <h2>Certifications</h2>
